@@ -493,9 +493,12 @@ This creates a dynamic timeline of all malicious activity.
 
 # Final Splunk Dashboard
 
-![image.png](attachment:7d3fdc6f-f882-4a31-a645-ac8d6796878e:image.png)
+<img width="2048" height="910" alt="image" src="https://github.com/user-attachments/assets/74eb8b07-41fc-4d58-ad55-c4de4e2f3ce5" />
 
-![image.png](attachment:54dfa4cd-921c-492b-a77d-4b15d4c43c31:image.png)
+
+<img width="2048" height="929" alt="image" src="https://github.com/user-attachments/assets/f9190a4d-0b30-4f92-a1b4-a170a0a9d24e" />
+
+
 
 # **Result: A Fully Functional Detection Engineering Lab**
 
