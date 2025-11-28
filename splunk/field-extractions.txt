@@ -1,0 +1,4 @@
+[Extraction-vulnweb_post]
+sourcetype = vulnweb_post
+REGEX = IP:\s(?<IP>[^ ]+)\s-\sPATH:\s(?<PATH>[^ ]+)\s-\sBODY:\s(?<BODY>.*)
+
